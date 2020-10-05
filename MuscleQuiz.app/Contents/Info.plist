@@ -7,18 +7,18 @@
         <key>CFBundleExecutable</key>
         <string>universalJavaApplicationStub</string><!-- relative to Contents/MacOS -->
         <key>CFBundleGetInfoString</key>
-        <string>MyShellScript</string>
+        <string>MuscleQuiz</string>
         <key>CFBundleIconFile</key>
-        <string>app</string><!-- relative to Contents/Resources -->
+        <string>doggy</string><!-- relative to Contents/Resources -->
         <key>CFBundleInfoDictionaryVersion</key>
         <string>8.0</string>
         <key>CFBundleName</key>
-        <string>MyShellScript</string>
+        <string>MuscleQuiz</string>
         <key>CFBundlePackageType</key>
         <string>APPL</string>
         <key>CFBundleVersion</key>
         <string>8.0</string>        
         <key>JVMMainClassName</key>
-        <string>meduslevelgauge.MedusLevelGauge</string>
+        <string>quiz</string>
 </dict>
 </plist>
