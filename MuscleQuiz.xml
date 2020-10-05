@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\callu\Documents\Molly\Quiz Code\MolQuiz\out\artifacts\quiz_jar\quiz_jar.jar</jar>
+  <outfile>C:\Users\callu\Documents\Molly\mol-quiz-stuff\MuscleQuiz.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\callu\Downloads\Shrikant-Rawa-Animals-Dog.ico</icon>
+  <classPath>
+    <mainClass>Quiz</mainClass>
+  </classPath>
+  <jre>
+    <path>C:\Program Files\Java\jre1.8.0_261</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>
