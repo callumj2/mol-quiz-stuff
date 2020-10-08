@@ -2,7 +2,7 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>console</headerType>
-  <jar>C:\Users\callu\Documents\Molly\Quiz Code\MolQuiz\out\artifacts\quiz_jar\quiz_jar.jar</jar>
+  <jar>C:\Users\callu\Documents\LIbGDX\Projects\test\desktop\build\libs\desktop-1.0.jar</jar>
   <outfile>C:\Users\callu\Documents\Molly\mol-quiz-stuff\MuscleQuiz.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
